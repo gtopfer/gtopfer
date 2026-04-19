@@ -1,3 +1,4 @@
+<!--
 ```
  ██████╗ ████████╗ ██████╗ ██████╗ ███████╗███████╗██████╗
 ██╔════╝ ╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗
@@ -6,8 +7,10 @@
 ╚██████╔╝   ██║   ╚██████╔╝██║     ███████╗███████╗██║  ██║
  ╚═════╝    ╚═╝    ╚═════╝ ╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
 ```
-<!-- Troque o ASCII acima pelo seu nome. Gere em: https://patorjk.com/software/taag (fonte: ANSI Shadow) -->
+Troque o ASCII acima pelo seu nome. Gere em: https://patorjk.com/software/taag (fonte: ANSI Shadow)
+-->
 
+<!--
 ```bash
 $ whoami
 ```
@@ -17,7 +20,9 @@ $ whoami
 
   "[SUA FRASE OU LEMA]"
 ```
+-->
 
+<!--
 ---
 
 ```bash
@@ -32,7 +37,9 @@ $ cat /etc/interests
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+-->
 
+<!--
 ---
 
 ```bash
@@ -44,8 +51,10 @@ $ lspci | grep -i "stack"
 00:03.0  INFRA    :: [FERRAMENTA 1]  [FERRAMENTA 2]  [FERRAMENTA 3]
 00:04.0  DATABASE :: [BANCO 1]  [BANCO 2]
 ```
-<!-- Liste suas tecnologias reais nos campos acima -->
+Liste suas tecnologias reais nos campos acima
+-->
 
+<!--
 ---
 
 ```bash
@@ -58,8 +67,10 @@ PID   NAME              STATUS    DESCRIÇÃO
 002   [NOME DO PROJETO] RUNNING   [UMA LINHA DO QUE É]
 003   [NOME DO PROJETO] SLEEPING  [UMA LINHA DO QUE É]
 ```
-<!-- Substitua pelos seus repos reais. SLEEPING = pausado, RUNNING = ativo -->
+Substitua pelos seus repos reais. SLEEPING = pausado, RUNNING = ativo
+-->
 
+<!--
 ---
 
 ```bash
@@ -70,7 +81,9 @@ OPEN  linkedin  →  linkedin.com/in/[SEU-USUARIO]
 OPEN  email     →  [SEU-EMAIL]
 OPEN  portfolio →  [SEU-SITE]
 ```
+-->
 
+<!--
 ---
 
 <div align="center">
@@ -93,3 +106,4 @@ $ git log --all --oneline --graph
 ```
 
 </div>
+-->
