@@ -4,8 +4,6 @@
 >
 > *दिवि सूर्यसहस्रस्य भवेद् युगपद् उत्थिता*  ·  *Gita* **11.12** · **Vishvarūpa**
 
-*Sistemas · Nix & mac no bolso · AI no teclado, do desenho ao que shipa.*
-
 
 
 ---
