@@ -18,10 +18,3 @@ flow:  "arquitetura, implementação, review, deploy — agentes e modelos nos d
 ```
 
 ---
-
-
-
-[gh](https://github.com/gtopfer) · [x](https://x.com/gtopfer) · [in](https://www.linkedin.com/in/gtopfer) · [ig](https://www.instagram.com/gtopfer)
-
-`·`
-
