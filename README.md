@@ -5,7 +5,14 @@
 > *दिवि सूर्यसहस्रस्य भवेद् युगपद् उत्थिता*  ·  *Gita* **11.12** · **Vishvarūpa**
 
 ###
+---
+Embora não seja um desenvolvedor, encontrei no **vibecoding** a extensão necessária para traduzir o que **meu tempo em liderança** ensinou, que a tecnologia deve ser o empuxo que materializa a consciência coletiva em realidade técnica. 
 
+A liderança não deve ser um exercício de comando, mas a arte de criar sem tocar e conduzir sem impor, utilizando a inovação para escalar a cultura de agilidade e bem-estar. 
+
+O objetivo não é substituir a essência, mas provar que, em um mundo de integração entre homens e máquinas, o **fator humano** permanece como o código mais importante de qualquer estrutura, sendo a chave para um sucesso que ecoa na própria **evolução do ser**.
+
+---
 ```yaml
 stack:
   nix: "NixOS 7.0.0 — Ryzen AI 5 PRO 340 — 32GB — Radeon 840M (iGPU)"
