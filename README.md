@@ -25,8 +25,3 @@ flow:  "arquitetura, implementação, review, deploy — agentes e modelos nos d
 ```
 
 ---
-
-![languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=gtopfer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gray&hide_border=false&count_private=true)
-
-###
-
