@@ -4,8 +4,12 @@
 >
 > *दिवि सूर्यसहस्रस्य भवेद् युगपद् उत्थिता*  ·  *Gita* **11.12** · **Vishvarūpa**
 
-###
+
+
 ---
+
+
+
 Embora não seja um desenvolvedor, encontrei no **vibecoding** a extensão necessária para traduzir o que **meu tempo em liderança** ensinou, que a tecnologia deve ser o empuxo que materializa a consciência coletiva em realidade técnica. 
 
 A liderança não deve ser um exercício de comando, mas a arte de criar sem tocar e conduzir sem impor, utilizando a inovação para escalar a cultura de agilidade e bem-estar. 
@@ -14,7 +18,10 @@ O objetivo não é substituir a essência, mas provar que, em um mundo de integr
 
 O que crio aqui é imperfeito, mas serve para exemplificar a ideia e, acima de tudo, a prática da **criatividade** que, anteriormente, não se podia aplicar livremente sem apoio ou intervenção. Agora, posso materializar **hipóteses** e **criatividade** para que, no momento da explicação, a clareza se faça presente. O que vem depois é o refinamento e as boas práticas.
 
+
+
 ---
+
 ```yaml
 stack:
   nix: "NixOS 7.0.0 — Ryzen AI 5 PRO 340 — 32GB — Radeon 840M (iGPU)"
@@ -22,6 +29,12 @@ stack:
 tools:
   code: "Claude Code, Cursor"
 flow:  "arquitetura, implementação, review, deploy — agentes e modelos nos dois OS"
+
+claude_code_plugins:
+  caveman:        "comprime respostas ~75% mantendo precisão técnica"
+  context_mode:   "sandboxeia outputs de ferramentas — até 98% menos tokens de contexto"
+  token_optimizer: "audita e elimina tokens fantasma, evita degradação em sessões longas"
 ```
 
 ---
+
