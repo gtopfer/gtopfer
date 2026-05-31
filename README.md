@@ -24,10 +24,15 @@ O que crio aqui é imperfeito, mas serve para exemplificar a ideia e, acima de t
 
 ```yaml
 stack:
-  nix: "NixOS 7.0.0 — Ryzen AI 5 PRO 340 — 32GB — Radeon 840M (iGPU)"
-  mac: "macOS — Apple M4, config base — Apple Silicon"
+  nix:  "NixOS 7.0.0 — Ryzen AI 5 PRO 340 — 32GB — Radeon 840M (iGPU)"
+  mac:  "MacBook Pro M5 Pro 24GB — Apple Silicon"
+
+hermes_node:
+  agent:  "Hermes_Agent Knowledge Base & Auto-Scribe (Obsidian SyncVault)"
+  server: "Mac mini — Apple M4, config base"
+
 tools:
-  code: "Claude Code, Cursor"
+  code: "Claude Code, Antigravity"
 flow:  "arquitetura, implementação, review, deploy — agentes e modelos nos dois OS"
 
 claude_code_plugins:
