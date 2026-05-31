@@ -28,8 +28,11 @@ stack:
   mac:  "MacBook Pro M5 Pro 24GB — Apple Silicon"
 
 hermes_node:
-  agent:  "Hermes_Agent Knowledge Base & Auto-Scribe (Obsidian SyncVault)"
+  agent:  "Hermes_Agent"
   server: "Mac mini — Apple M4, config base"
+  llms:
+    main:  "DeepSeek V4 Flash — 270M+ tokens/mo (High-scale Orchestrator)"
+    batch: "Nvidia 120b [Free] — 100% Automations & Crons"
 
 tools:
   code: "Claude Code, Antigravity"
