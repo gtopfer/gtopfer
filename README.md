@@ -24,21 +24,26 @@ O que crio aqui é imperfeito, mas serve para exemplificar a ideia e, acima de t
 
 ```yaml
 stack:
-  nix:  "NixOS 7.0.0 — Ryzen AI 5 PRO 340 — 32GB — Radeon 840M (iGPU)"
-  mac:  "MacBook Pro M5 Pro 24GB — Apple Silicon"
+  win:      "Windows — Ryzen AI 5 PRO 340 — 32GB — Radeon 840M (iGPU)"
+  mac:      "MacBook Pro M5 Pro 24GB — Apple Silicon"
+  server:   "Mac mini — Apple M4 16GB"
 
 hermes_node:
   agent:  "Hermes_Agent"
-  server: "Mac mini — Apple M4, config base"
+  server: "Mac mini (ver stack)"
+  router: "OpenRouter"
   llms:
-    main:  "DeepSeek V4 Flash — 270M+ tokens/mo (High-scale Orchestrator)"
-    batch: "Nvidia 120b [Free] — 100% Automations & Crons"
+    raciocinio: "DeepSeek V4 Pro — conversas, newsletter, dashboard, decisões"
+    economico:  "DeepSeek V4 Flash — classificação, formatação, leitura de vault, jobs mecânicos"
+    fallback:   "Google Gemma 4 31B — ativado se primário cair"
+  routing: "pela natureza da tarefa — julgamento/escrita → Raciocínio, formatar/classificar → Econômico"
+  crons:   "mesmo critério por tier; watchdogs rodam shell puro (no_agent), sem LLM"
 
 tools:
   code: "Claude Code, Antigravity"
 flow:  "arquitetura, implementação, review, deploy — agentes e modelos nos dois OS"
 
-claude_code_plugins:
+claude_code_plugins_and_skills:
   caveman:        "comprime respostas ~75% mantendo precisão técnica"
   context_mode:   "sandboxeia outputs de ferramentas — até 98% menos tokens de contexto"
   token_optimizer: "audita e elimina tokens fantasma, evita degradação em sessões longas"
