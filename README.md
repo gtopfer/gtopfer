@@ -18,7 +18,16 @@ O objetivo não é substituir a essência, mas provar que, em um mundo de integr
 
 O que crio aqui é imperfeito, mas serve para exemplificar a ideia e, acima de tudo, a prática da **criatividade** que, anteriormente, não se podia aplicar livremente sem apoio ou intervenção. Agora, posso materializar **hipóteses** e **criatividade** para que, no momento da explicação, a clareza se faça presente. O que vem depois é o refinamento e as boas práticas.
 
+---
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gtopfer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtopfer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ---
 
