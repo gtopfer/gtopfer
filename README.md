@@ -41,7 +41,7 @@ hermes_node:
 
 tools:
   code: "Claude Code, Antigravity"
-flow:  "arquitetura, implementação, review, deploy — agentes e modelos nos dois OS"
+  flow:  "arquitetura, implementação, review, deploy — agentes e modelos nos dois OS"
 
 claude_code_plugins_and_skills:
   caveman:        "comprime respostas ~75% mantendo precisão técnica"
