@@ -41,7 +41,6 @@ agents:
   hermes:      "orquestrador no Mac mini — vault, rotinas, memória e delegação"
   grok_build:  "agente de código interativo e headless (MacBook)"
   antigravity: "agente de código / IDE (MacBook)"
-  cavecrew:    "subagentes investigator, builder e reviewer (via caveman)"
 
 tools:
   code: "Antigravity, Grok Build"
