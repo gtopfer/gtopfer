@@ -10,11 +10,9 @@
 
 Embora não seja um desenvolvedor, encontrei no **vibecoding** a extensão necessária para traduzir o que **meu tempo em liderança** ensinou: a tecnologia deve ser o empuxo que materializa a consciência coletiva em realidade técnica.
 
-A liderança não deve ser um exercício de comando, mas a arte de criar sem tocar e conduzir sem impor, utilizando a inovação para escalar a cultura de agilidade e bem-estar.
+A liderança não deve ser exercício de comando, mas a arte de criar sem tocar e conduzir sem impor — a inovação a serviço de escalar agilidade e bem-estar.
 
-O objetivo não é substituir a essência, mas provar que, em um mundo de integração entre homens e máquinas, o **fator humano** permanece como o código mais importante de qualquer estrutura — a chave para um sucesso que ecoa na própria **evolução do ser**.
-
-O que crio aqui é imperfeito, mas serve para exemplificar a ideia e, acima de tudo, a prática da **criatividade** que, anteriormente, não se podia aplicar livremente sem apoio ou intervenção. Agora, posso materializar **hipóteses** e **criatividade** para que, no momento da explicação, a clareza se faça presente. O que vem depois é o refinamento e as boas práticas.
+O objetivo não é substituir a essência. Entre homens e máquinas, o **fator humano** permanece o código mais importante de qualquer estrutura — chave de um sucesso que ecoa na **evolução do ser**. O que crio aqui é imperfeito: materializo **hipóteses** para que, no momento da explicação, a clareza se faça presente; depois, o refino e as boas práticas.
 
 ---
 
@@ -33,8 +31,8 @@ stack:
   server: "Mac mini — Apple M4 16GB"
 
 hermes_node:
-  agent:  "Hermes_Agent"
-  server: "Mac mini (ver stack)"
+  agent:  "hermes"
+  server: "Mac mini"
   router: "xAI Grok OAuth (SuperGrok / X Premium+)"
 
 agents:
@@ -44,7 +42,7 @@ agents:
 
 tools:
   code: "Antigravity, Grok Build"
-  flow: "intenção → materializar com agentes → protótipo → refino e boas práticas; ciclo compartilhado entre vibecoding interativo (MacBook: Grok Build / Antigravity) e automação no Hermes (Mac mini: vault, memória, rotinas)"
+  flow: "intenção → materializar → protótipo → refino e boas práticas"
 
 plugins_and_skills:
   caveman:
