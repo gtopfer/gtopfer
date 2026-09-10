@@ -36,29 +36,32 @@ hermes_node:
   router: "xAI Grok OAuth (SuperGrok / X Premium+)"
 
 agents:
-  hermes:      "orquestrador no Mac mini — vault, rotinas, memória e delegação"
-  cursor:      "agente de código / IDE (MacBook)"
-  grok_build:  "agente de código interativo e headless (MacBook)"
-  grokbot:     "conselheiro executivo — estratégia, direção e decisão de negócio"
+  hermes:  "orquestrador no Mac mini — vault, rotinas, memória e delegação"
+  cursor:  "agente de código / IDE (MacBook)"
+  grokbot: "conselheiro executivo — estratégia, direção e decisão de negócio"
 
 tools:
-  code:    "Cursor, Grok Build"
+  code:    "Cursor"
   manager: "Grok bot"
-  flow: "intenção → materializar (Cursor / Grok Build) → protótipo → refino e boas práticas"
-
-plugins_and_skills:
-  caveman:
-    core:     "modo de resposta comprimido — ~75% menos tokens, precisão técnica"
-    cavecrew: "subagentes investigator / builder / reviewer com saída compacta"
-    compress: "comprime memória e preferências para economizar contexto"
-    stats:    "métricas reais de tokens e economia na sessão"
-  hermes_stack:
-    engraph:    "busca semântica local no vault Obsidian (Metal no M4)"
-    zer0dex:    "memória dual-layer entre sessões"
-    playwright: "automação de browser para fluxos complexos"
-    whisper:    "transcrição de áudio local no Mac mini"
-    obsidian:   "vault como memória de longo prazo do agente"
+  flow:    "intenção → materializar (Cursor, com interação do Grok bot) → protótipo → refino e boas práticas"
 ```
+
+### Plugins & skills
+
+**Grok bot** — plugins: nenhum
+
+Skills: `agent-reach-research`, `answer-engine-question-map`, `book-to-skill`, `brand-voice`, `build-the-x-watch-list`, `content-engine`, `daily-x-brief`, `deep-research`, `defuddle`, `design-a-grok-bot`, `draft-a-post-or-reply`, `extra-recurring-checks`, `getting-started`, `getting-started-2`, `hermes-via-samanta`, `json-canvas`, `keyword-and-question-research`, `last30days-research`, `linkedin-comment-drafter`, `linkedin-content-planner`, `linkedin-employee-advocacy`, `linkedin-engager-analytics`, `linkedin-hook-extractor`, `linkedin-humanizer`, `linkedin-post-writer`, `linkedin-profile-optimizer`, `linkedin-reply-handler`, `linkedin-repurposer`, `linkedin-thread-monitor`, `make-bot-ui`, `obsidian-bases`, `obsidian-cli`, `obsidian-markdown`, `page-audit-and-refresh-plan`, `read-a-thread-or-post`, `routine-healthcheck`, `transcript-healthcheck`, `weekly-search-report`, `weekly-x-recap`, `writer-content-brief`
+
+**Cursor** — skills (managed): `add-connector`, `box-desktop`, `channels`, `code-changes`, `export-bot-template`, `flight-booking`, `food-ordering`, `group-chat-turns`, `in-chat-forms`, `learn-from-demonstration`, `no-connector-fallback`, `purchases`, `restaurant-booking`, `restaurant-recommendations`, `rideshare`, `routines`, `scheduling`, `send-on-behalf`, `shopping`, `skill-authoring`
+
+Plugins:
+- `caveman` — cavecrew, caveman, caveman-commit, caveman-compress, caveman-help, caveman-review, caveman-stats
+- `pstack` — architect, arena, automate-me, blast-radius, bro, create-verification-skill, figure-it-out, how, interrogate, maintain-verification-skill, make-bot-ui, no-comments, poteto-mode, principle-* (18), recall, reflect, reproduce-and-fix-issues, setup-benny, setup-pstack, show-me-your-work, swarm, tdd, teach, technical-writing, triage-issue-reports, typescript-best-practices, unslop, why
+- `x` — x-api-mcp-guide
+
+**Hermes** — plugins (53): `browser-browser-use`, `browser-browserbase`, `browser-firecrawl`, `chronos`, `basic`, `drain`, `nous`, `self-hosted`, `disk-cleanup`, `google_meet`, `deepinfra`, `fal`, `krea`, `meta-ai-image-gen`, `openai`, `openai-codex`, `openrouter`, `xai`, `langfuse`, `a2a-platform`, `buzz-platform`, `dingtalk-platform`, `discord-platform`, `email-platform`, `feishu-platform`, `google_chat-platform`, `irc-platform`, `line-platform`, `matrix-platform`, `mattermost-platform`, `ntfy-platform`, `photon-platform`, `raft-platform`, `simplex-platform`, `slack-platform`, `sms-platform`, `teams-platform`, `telegram-platform`, `wecom-platform`, `whatsapp-platform`, `security-guidance`, `spotify`, `teams_pipeline`, `web-brave-free`, `web-ddgs`, `web-exa`, `web-firecrawl`, `web-keenable`, `web-parallel`, `web-perplexity`, `web-searxng`, `web-tavily`, `web-xai`
+
+Skills (251): lista no anexo — não cabe limpo aqui.
 
 ---
 
