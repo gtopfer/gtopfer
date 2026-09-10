@@ -23,7 +23,7 @@ O objetivo não é substituir a essência. Entre homens e máquinas, o **fator h
 
 ---
 
-### Stack & fluxo
+### Stack
 
 ```yaml
 stack:
@@ -31,19 +31,13 @@ stack:
   server: "Mac mini — Apple M4 16GB"
 
 hermes_node:
-  agent:  "hermes"
-  server: "Mac mini"
-  router: "xAI Grok OAuth (SuperGrok / X Premium+)"
-
-agents:
-  hermes:  "orquestrador no Mac mini — vault, rotinas, memória e delegação"
-  cursor:  "agente de código / IDE (MacBook)"
-  grokbot: "conselheiro executivo — estratégia, direção e decisão de negócio"
+  hermes: "Mac mini"
+  out:    "xAI Grok OAuth (SuperGrok / X Premium+)"
 
 tools:
-  code:    "Cursor"
-  manager: "Grok bot"
-  flow:    "intenção → materializar (Cursor, com interação do Grok bot) → protótipo → refino e boas práticas"
+  hermes:  "operacional — rotinas, hardware e poder de máquina; uso via Grok bot"
+  cursor:  "desenvolvimento"
+  grokbot: "administração da empresa — tarefas executivas"
 ```
 
 ---
