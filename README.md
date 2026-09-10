@@ -37,12 +37,14 @@ hermes_node:
 
 agents:
   hermes:      "orquestrador no Mac mini — vault, rotinas, memória e delegação"
+  cursor:      "agente de código / IDE (MacBook)"
+  grokbot:     "agente Grok interativo — consulta, rascunho e ciclo rápido"
   grok_build:  "agente de código interativo e headless (MacBook)"
   antigravity: "agente de código / IDE (MacBook)"
 
 tools:
-  code: "Antigravity, Grok Build"
-  flow: "intenção → materializar → protótipo → refino e boas práticas"
+  code: "Cursor, Grokbot, Antigravity, Grok Build"
+  flow: "intenção → materializar (Cursor / Grokbot) → protótipo → refino e boas práticas"
 
 plugins_and_skills:
   caveman:
