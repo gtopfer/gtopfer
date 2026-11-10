@@ -23,12 +23,6 @@ O objetivo não é substituir a essência. Entre homens e máquinas, o **fator h
 
 ---
 
-### Trabalho
-
-Desenvolvo e refino protótipos, com foco em liderança, tecnologia e no fator humano.
-
----
-
 ```
 . █ .
 . . █
