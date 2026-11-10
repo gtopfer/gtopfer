@@ -23,22 +23,9 @@ O objetivo não é substituir a essência. Entre homens e máquinas, o **fator h
 
 ---
 
-### Stack
+### Trabalho
 
-```yaml
-stack:
-  mac:    "MacBook Pro M5 Pro 24GB — Apple Silicon"
-  server: "Mac mini — Apple M4 16GB"
-
-hermes_node:
-  hermes: "Mac mini"
-  out:    "xAI Grok OAuth (SuperGrok / X Premium+)"
-
-tools:
-  hermes:  "operacional — rotinas, hardware e poder de máquina; uso via Grok bot"
-  cursor:  "desenvolvimento"
-  grokbot: "administração da empresa — tarefas executivas"
-```
+Desenvolvo e refino protótipos, com foco em liderança, tecnologia e no fator humano.
 
 ---
 
